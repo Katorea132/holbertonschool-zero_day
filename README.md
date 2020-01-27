@@ -1,3 +1,2 @@
 # holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
+This is the first project for Holberton School
