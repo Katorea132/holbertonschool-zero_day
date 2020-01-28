@@ -1,1 +1,1 @@
-This is the very first project
+This ia project about vagrant, using git and uname
